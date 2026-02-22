@@ -51,11 +51,8 @@ Through this experience, I have developed strong skills in:
  ### 🎯 Goals
 
 - Become a professional Web Developer  
-
 - Work in the IT industry  
-
 - Continuously improve my technical and problem-solving skills  
-
 - Secure a software development role in Sweden or internationally
 
 
