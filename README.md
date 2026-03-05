@@ -37,11 +37,17 @@ I have experience working with:
 
 - Build strong frontend portfolio projects  
 - Deepen React knowledge  
-- Transition fully into a Frontend Developer role  
+- Transition fully into a Frontend Developer role
+
+- ### 📫 Let's Connect
+
+Open to collaboration, learning opportunities, and junior frontend roles.
 
 ---
 
-### 📫 Let's Connect
+## 📊 GitHub Stats
+
 ![Naila's GitHub stats](https://github-readme-stats.vercel.app/api?username=nailaazeri-svg&show_icons=true&theme=tokyonight)
 
-Open to collaboration, learning opportunities, and junior frontend roles.
+---
+
