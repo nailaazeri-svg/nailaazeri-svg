@@ -21,8 +21,6 @@ I have experience working with:
 - Interactive digital platforms for structured learning
 - Digital classroom technology & curriculum development
 
----
-
 ## 💻 Technical Skills
 
 - HTML5  
@@ -30,9 +28,7 @@ I have experience working with:
 - JavaScript  
 - React (learning & building projects)  
 - Git & GitHub
-- 
  ## ⚙️ Tech Stack
-
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
@@ -41,28 +37,21 @@ I have experience working with:
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 ---
-
 ## 🚀 Current Goals
 
 - Build strong frontend portfolio projects  
 - Deepen React knowledge  
 - Transition fully into a Frontend Developer role
-
-- ### 📫 Let's Connect
+---
+### 📫 Let's Connect
 
 Open to collaboration, learning opportunities, and junior frontend roles.
 
----
-
 ![Naila's GitHub stats](https://github-readme-stats.vercel.app/api?username=nailaazeri-svg&show_icons=true&theme=tokyonight)
 
----
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nailaazeri-svg&layout=compact&theme=tokyonight)
-
 
 ### 👀 Profile Visitors
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=nailaazeri-svg&color=blue)
-
 
