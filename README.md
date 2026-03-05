@@ -42,10 +42,6 @@ I have experience working with:
 ---
 
 ### 📫 Let's Connect
----
-
-## 📊 GitHub Stats
-
 ![Naila's GitHub stats](https://github-readme-stats.vercel.app/api?username=nailaazeri-svg&show_icons=true&theme=tokyonight)
 
 Open to collaboration, learning opportunities, and junior frontend roles.
