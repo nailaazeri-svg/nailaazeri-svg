@@ -29,7 +29,9 @@ I have experience working with:
 
 ## ⚙️ Tech Stack
 
-## ⚙️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github" />
+</p>
 
 **Frontend:**  
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
